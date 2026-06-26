@@ -296,6 +296,8 @@ Examples:
 
 ## Dashboard
 
+**Dashboard Link:** [Link](https://datastudio.google.com/reporting/61c7fe30-2e53-4a09-ae95-e2f49136870d)
+
 ### Executive Overview
 
 ![Executive Overview](dashboard/Executive%20Overview.png)
