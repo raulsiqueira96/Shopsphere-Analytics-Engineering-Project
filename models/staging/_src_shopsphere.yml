@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: raw_shopsphere # name for the project
+    database: jaffle-shop-494406 # name of the whole database, the name that it's on top
+    schema: raw_shopsphere # name of the schema
+
+    tables:
+      - name: customers
+      - name: products
+      - name: orders
+      - name: refunds
+      - name: marketing_spend
+      - name: sessions
+      - name: support_tickets
