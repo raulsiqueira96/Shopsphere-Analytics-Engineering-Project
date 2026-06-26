@@ -53,7 +53,7 @@ The goal of this project is to build a scalable analytics platform capable of an
 
 ## Architecture
 
-![Architecture Diagram](architecture/architecture_diagram.png)
+![Architecture Diagram](architecture/Architecture%20Diagram.png)
 
 ### Data Flow
 
@@ -188,7 +188,8 @@ The warehouse follows a Star Schema design.
 
 ## dbt Lineage
 
-![dbt Lineage](architecture/dbt_lineage.png)
+![dbt Lineage](architecture/DAG%20Lineage%20-%20customer_360.png)
+![dbt Lineage](architecture/DAG%20Lineage%20-%20obt_shopsphere_performance.png)
 
 The lineage graph demonstrates the flow of data from raw source tables through staging, intermediate transformations, marts, and analytics models.
 
@@ -297,7 +298,7 @@ Examples:
 
 ### Executive Overview
 
-![Executive Overview](dashboard/executive_overview.png)
+![Executive Overview](dashboard/Executive%20Overview.png)
 
 Key KPIs:
 
@@ -316,7 +317,7 @@ Business Question:
 
 ### Marketing Performance
 
-![Marketing Performance](dashboard/marketing_performance.png)
+![Marketing Performance](dashboard/Marketing%20Performance.png)
 
 Key KPIs:
 
@@ -335,7 +336,7 @@ Business Question:
 
 ### Customer Analytics
 
-![Customer Analytics](dashboard/customer_analytics.png)
+![Customer Analytics](dashboard/Customer%20Analytics.png)
 
 Key KPIs:
 
